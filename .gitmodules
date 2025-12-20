@@ -8,3 +8,6 @@
 [submodule "stbl"]
 	path = stbl
 	url = https://github.com/wranglezone/stbl
+[submodule "tibblify"]
+	path = tibblify
+	url = https://github.com/wranglezone/tibblify
