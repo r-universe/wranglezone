@@ -5,9 +5,17 @@
 [submodule "hrmn"]
 	path = hrmn
 	url = https://github.com/wranglezone/hrmn
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+	registered = false
 [submodule "stbl"]
 	path = stbl
 	url = https://github.com/wranglezone/stbl
 [submodule "tibblify"]
 	path = tibblify
 	url = https://github.com/wranglezone/tibblify
+[submodule "vctrs"]
+	path = vctrs
+	url = https://github.com/r-lib/vctrs
+	registered = false
