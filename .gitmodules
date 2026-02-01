@@ -11,7 +11,3 @@
 [submodule "tibblify"]
 	path = tibblify
 	url = https://github.com/wranglezone/tibblify
-[submodule "vctrs"]
-	path = vctrs
-	url = https://github.com/r-lib/vctrs
-	registered = false
